@@ -155,7 +155,7 @@ ros2 run demo_python_service face_detect_client_node
 
 ## Face Detection Result
 
-![demo](images/demo.png)
+![demo](images/demo1.png)
 
 ---
 
